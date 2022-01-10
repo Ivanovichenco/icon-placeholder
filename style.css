@@ -46,7 +46,7 @@ input {
     margin-bottom: 10px;
     background-image: url(guser_gris.png);
     background-repeat: no-repeat;
-    background-position: 15px center;
+    background-position: 5px center;
 }
 .password::placeholder {
     margin-bottom: 10px;
