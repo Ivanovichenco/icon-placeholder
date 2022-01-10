@@ -25,14 +25,14 @@ body{
     
     background-color: rgb(243, 243, 234);
     height: 95vh;
-    width: 30%;
+    width: 350px;
     align-items: center;
 }
 .img {
     height: 100px;
 }
 .image {
-    padding-top: 50px;
+    padding-top: 20vh;
     height: 70px;
     margin-top: 10px;
     
@@ -60,7 +60,7 @@ input {
 
 }
 .button {
-    margin-top: 60px;
+    margin-top: 70px;
     color: grey;
     font-size: 20px;
 }
