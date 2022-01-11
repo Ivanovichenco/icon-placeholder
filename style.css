@@ -44,13 +44,15 @@ input {
 .email::placeholder {
     
     margin-bottom: 10px;
-    background-image: url(guser_gris.png);
+    background-image: url(user50x47.png);
+    background-size: 20px;
     background-repeat: no-repeat;
-    background-position: 5px center;
+    background-position: 7px center;
 }
 .password::placeholder {
     margin-bottom: 10px;
-    background-image: url(ojo_gris\ 30x11.png);
+    background-image: url(ojo_gris.png);
+    
     background-repeat: no-repeat;
     background-position: 10px center;
 }
@@ -63,4 +65,8 @@ input {
     margin-top: 70px;
     color: grey;
     font-size: 20px;
+}
+.button:hover {
+    background-color: black;
+    color: blanchedalmond;
 }
